@@ -1,14 +1,14 @@
-//
-// Created by sajja on 6/17/2021.
-//
+#ifndef MAIN_CPP_PET_H
+#define MAIN_CPP_PET_H
 
-#ifndef JUNGLE_PET_H
-#define JUNGLE_PET_H
+#include "Animal.h"
 
+class Pet: public Animal {
 
-class Pet {
+public:
+    Pet();
+    virtual void fall() override final;
 
 };
 
-
-#endif //JUNGLE_PET_H
+#endif //MAIN_CPP_PET_H
