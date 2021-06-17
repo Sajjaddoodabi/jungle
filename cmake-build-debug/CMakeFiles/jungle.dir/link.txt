@@ -1,1 +1,3 @@
-C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/jungle.dir/main.cpp.o CMakeFiles/jungle.dir/Animal.cpp.o CMakeFiles/jungle.dir/WildAnimal.cpp.o CMakeFiles/jungle.dir/DomesticAnimal.cpp.o CMakeFiles/jungle.dir/Jungle.cpp.o  -o jungle.exe -Wl,--out-implib,libjungle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\jungle.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\jungle.dir/objects.a @CMakeFiles\jungle.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\jungle.dir/objects.a -Wl,--no-whole-archive -o jungle.exe -Wl,--out-implib,libjungle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\jungle.dir\linklibs.rsp

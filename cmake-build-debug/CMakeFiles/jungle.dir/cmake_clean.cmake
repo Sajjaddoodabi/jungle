@@ -1,10 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/jungle.dir/Animal.cpp.o"
-  "CMakeFiles/jungle.dir/DomesticAnimal.cpp.o"
-  "CMakeFiles/jungle.dir/Jungle.cpp.o"
-  "CMakeFiles/jungle.dir/WildAnimal.cpp.o"
-  "CMakeFiles/jungle.dir/main.cpp.o"
+  "CMakeFiles/jungle.dir/Animal.cpp.obj"
+  "CMakeFiles/jungle.dir/DomesticAnimal.cpp.obj"
+  "CMakeFiles/jungle.dir/Jungle.cpp.obj"
+  "CMakeFiles/jungle.dir/Pet.cpp.obj"
+  "CMakeFiles/jungle.dir/WildAnimal.cpp.obj"
+  "CMakeFiles/jungle.dir/main.cpp.obj"
   "jungle.exe"
+  "jungle.exe.manifest"
   "jungle.pdb"
   "libjungle.dll.a"
 )
