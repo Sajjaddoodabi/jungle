@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sajja/CLionProjects/Jungle/Animal.h
+
+C:/Users/sajja/CLionProjects/Jungle/DomesticAnimal.h
+Animal.h
+C:/Users/sajja/CLionProjects/Jungle/Animal.h
+
+C:/Users/sajja/CLionProjects/Jungle/Jungle.h
+Animal.h
+C:/Users/sajja/CLionProjects/Jungle/Animal.h
+
+C:/Users/sajja/CLionProjects/Jungle/Pet.h
+Animal.h
+C:/Users/sajja/CLionProjects/Jungle/Animal.h
+
+C:/Users/sajja/CLionProjects/Jungle/WildAnimal.h
+Animal.h
+C:/Users/sajja/CLionProjects/Jungle/Animal.h
+
+C:/Users/sajja/CLionProjects/Jungle/main.cpp
+iostream
+-
+Animal.h
+C:/Users/sajja/CLionProjects/Jungle/Animal.h
+Jungle.h
+C:/Users/sajja/CLionProjects/Jungle/Jungle.h
+WildAnimal.h
+C:/Users/sajja/CLionProjects/Jungle/WildAnimal.h
+DomesticAnimal.h
+C:/Users/sajja/CLionProjects/Jungle/DomesticAnimal.h
+Pet.h
+C:/Users/sajja/CLionProjects/Jungle/Pet.h
+
